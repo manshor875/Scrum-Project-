@@ -1,5 +1,5 @@
 # Scrum-Project-
-ITC 315 - Software Engineering // Group Project
+ITC 315 - Software Engineering // Group Project (Scrum)
 
 Project: Library Management System
 
